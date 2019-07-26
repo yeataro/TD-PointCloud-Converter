@@ -1,0 +1,10 @@
+#backup
+Backup/
+
+#Crash
+*.dmp
+CrashAutoSave.*
+
+#test
+Test/
+WIP/
