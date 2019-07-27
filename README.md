@@ -18,7 +18,7 @@ I am here to submit based on being asked. I think that the later TD experimental
 <https://www.youtube.com/watch?v=Z494TsV9WPo>
 
 ## How to use
-To use this component, you must convert the point cloud source to an `.obj` file (because the current TD version supports direct use of this file format), you can do it with the free software [MeshLab]. If your point cloud asset is not supported by MeshLab, you can also use the open source software [CloudCompare] to convert your assets to `.ply` files and then convert them to `.obj` files.
+To use this component, you must convert the point cloud source to an `.obj` file (because the current TD version supports direct use of this file format), you can do it with the free software [MeshLab]. If your point cloud asset is not supported by [MeshLab], you can also use the open source software [CloudCompare] to convert your assets to `.ply` files and then convert them to `.obj` files.
 The above relay file (`.ply`, `.obj`) is recommended to use the binary format, especially the relay file before entering this TD component, which can greatly reduce the waiting time for reading.
 
 [TouchDesigner]:https://www.derivative.ca/ "Derivative Page"
