@@ -8,7 +8,7 @@ TD-PointCloud-Converter
 -->
 To use the GPU to process point clouds, convert point cloud assets into location & color texture (EXR). Created with [TouchDesigner].
 
-> Note: This project has been submitted to the [Derivative][TouchDesigner] as a reference for the upcoming point cloud function in TD.
+> Notes: This project has been submitted to the [Derivative][TouchDesigner] as a reference for the upcoming point cloud function in TD.
 I am here to submit based on being asked. I think that the later TD experimental version will have [new operators](https://docs.derivative.ca/Experimental:Point_Cloud_In_TOP "Point Cloud In TOP") to simplify these processes, even built-in features similar to this component, then it is recommended to use TD's built-in methods, but I will still update this component based on the new method(if there is such a value). #2019-07-27
 
 
