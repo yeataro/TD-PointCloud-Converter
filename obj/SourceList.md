@@ -1,5 +1,4 @@
 # Source List
----
 
 ## nomernoy.obj
 <https://sketchfab.com/3d-models/81-714-metro-car-interior-2017-101672fa4576432eb58d05407572a153>
