@@ -1,5 +1,6 @@
 # TD-PointCloud-Converter
 ---
+![ScreenShot](docs/img/screenshot.png)
 
 <https://www.youtube.com/watch?v=Z494TsV9WPo>
 
